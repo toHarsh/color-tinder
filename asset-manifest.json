@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/toHarsh/color-tinder.git/static/css/main.9d964bba.css",
-    "main.js": "/toHarsh/color-tinder.git/static/js/main.8adf1293.js",
-    "static/js/453.d38abcdd.chunk.js": "/toHarsh/color-tinder.git/static/js/453.d38abcdd.chunk.js",
-    "index.html": "/toHarsh/color-tinder.git/index.html",
-    "main.9d964bba.css.map": "/toHarsh/color-tinder.git/static/css/main.9d964bba.css.map",
-    "main.8adf1293.js.map": "/toHarsh/color-tinder.git/static/js/main.8adf1293.js.map",
-    "453.d38abcdd.chunk.js.map": "/toHarsh/color-tinder.git/static/js/453.d38abcdd.chunk.js.map"
+    "main.css": "/color-tinder/static/css/main.9d964bba.css",
+    "main.js": "/color-tinder/static/js/main.b9902583.js",
+    "index.html": "/color-tinder/index.html",
+    "main.9d964bba.css.map": "/color-tinder/static/css/main.9d964bba.css.map",
+    "main.b9902583.js.map": "/color-tinder/static/js/main.b9902583.js.map"
   },
   "entrypoints": [
     "static/css/main.9d964bba.css",
-    "static/js/main.8adf1293.js"
+    "static/js/main.b9902583.js"
   ]
 }
